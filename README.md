@@ -4,22 +4,23 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(June 6, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Steven Smith)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(The Assignment test the users knowledge of utilizing various tools such as Cloud9 and GitHub, 
+to illustarte how web developers use these tools to create and manage web development projects
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+
+https://undergroundhits.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to configure cloud9 to interact with GithUb
+2. How to the proper use of varibales is important as well understanding how to manipulate Javascript
+3. How to use the most gitHub function such as creating repositorys and how to add files to the remote and local repository.
 
 
 
